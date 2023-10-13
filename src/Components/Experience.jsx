@@ -36,13 +36,12 @@ const Experience = () => {
         <h4 className="job-title">Associate Software Engineer (ASE)</h4>
         <p>Accenture India Pvt.Ltd., | Aug 2020 - June 2022</p>
         <ul className='bullet-list'>
-        <li>Developed an automation tool using Python and Node.js. for William Demant POS application, resulting in the differentiation 61 different reports across Europe, America, and Australia regions for 191 stores, leading to a reduction in manual efforts by 70%.</li>
-<li>Worked as a .NET developer for DM, CRM, AX, and POS applications for William Demant and successfully delivered 9 CR’s, which improved the application performance by 20%.</li>
-<li>Designed and implemented 491 automation test cases for DM and CRM web applications, that resulted in a 50% reduction in testing time and a 60% increase in test coverage. Recognized as the best performer of the month for this achievement.</li>
-<li>Developed automation test scripts using Selenium (C#) and executed over 7400 scripts during the tenure, which led to a 75% reduction in testing time and an overall increase in product quality.</li>
-<li>Collaborated with Hearing Aid team to provide support for users and resolved 291 remedies, resulting in a 90% improvement in customer satisfaction ratings. </li>
-
-</ul>
+        
+          <li>During my tenure as a Spring Boot developer at Sydbank through Accenture, I made a substantial impact by delivering 9 CR’s. These contributions led to a remarkable 20% enhancement in the application's performance, a significant achievement that earned me recognition as the top performer of the month.</li>
+<li>I developed a Java-based automation tool with Spring Boot for Sydbank's loan application, enabling the differentiation of 61 unique reports.</li>
+<li>My contributions included the design and implementation of 491 automation test cases for DM and CRM web applications, resulting in a 50% reduction in testing time and a 60% increase in test coverage.</li>        
+    <li>These accomplishments highlight my ability to thrive in a consulting environment, delivering high-quality solutions and remarkable results for clients.</li>
+        </ul>
       </div>
 
       </CardContainer>

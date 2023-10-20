@@ -8,7 +8,7 @@ const academic = [
         name:'University of Texas at Dallas',
         degree: 'Master of Science in Computer Science',
         duration: 'Aug 2022 - May 2024',
-        gpa : '3.05/4.00',
+        gpa : '3.5/4.00',
         pic:UTD
     },
     {

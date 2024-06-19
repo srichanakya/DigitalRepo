@@ -34,7 +34,7 @@ export default function Socialmedia() {
                     Mail <HiMail size={30}/>
                 </>
             ),
-            href:'mailto:srichanakyayennana@outlook.com'
+            href:'mailto:srichanakyayennana@gmail.com'
 
         },
         {

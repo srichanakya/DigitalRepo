@@ -29,7 +29,7 @@ export default function Home() {
         <div className="professions bigger-profession">
           <motion.h1 style={{ opacity: 0, y: 50 }} animate={nameControls} className="profession">
             <Typical
-              steps={['🧑‍💻 Full-Stack Developer', 1000,'🥽 Java Developer', 1000,'📱 iOS Developer', 1000]}
+              steps={['🧑‍💻 Full-Stack Developer', 1000,'☕️ Java Developer', 1000,'📱 iOS Developer', 1000]}
               loop={Infinity}
               wrapper="span"
             />

@@ -40,7 +40,7 @@ const Contact = () => {
     setIsSending(true);
 
     // Replace these values with your own EmailJS service and template IDs
-    const serviceID = 'service_6kquwax';
+    const serviceID = 'service_aqazec7';  
     const templateID = 'template_z2j0yk3';
     const userID = 'aElTxKVTKqzP8vcil';
 

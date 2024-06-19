@@ -37,10 +37,14 @@ const Experience = () => {
         <p>Accenture India Pvt.Ltd., | Aug 2020 - June 2022</p>
         <ul className='bullet-list'>
         
-          <li>During my tenure as a Spring Boot developer at Sydbank through Accenture, I made a substantial impact by delivering 9 CR’s. These contributions led to a remarkable 20% enhancement in the application's performance, a significant achievement that earned me recognition as the top performer of the month.</li>
-<li>I developed a Java-based automation tool with Spring Boot for Sydbank's loan application, enabling the differentiation of 61 unique reports.</li>
-<li>My contributions included the design and implementation of 491 automation test cases for DM and CRM web applications, resulting in a 50% reduction in testing time and a 60% increase in test coverage.</li>        
-    <li>These accomplishments highlight my ability to thrive in a consulting environment, delivering high-quality solutions and remarkable results for clients.</li>
+          <li>Worked as a back-end Java Developer for the Demant Team at William Demant, developing high-performance and reliable web applications, including a CRM application, using Spring Web Flux.</li>
+<li>Developed an automation tool tailored for automated testing of report management processes. This tool streamlined the testing of various report functionalities, ensuring accuracy and reliability in managing and validating report data.</li>
+<li>Designed and implemented multiple microservices to process large datasets from Excel files, consisting of hundreds of thousands of rows, and efficiently storing them in a database.</li>        
+    <li>Utilized MongoDB to store and retrieve data with sub-millisecond response times, optimizing code for enhanced performance.</li>
+          <li>Established communication protocols between microservices to exchange reliable information and facilitate seamless data flow.</li>
+          <li>Used SonarQube to ensure coding standards, actively engaged in peer reviews, and ensured alignment with team standards.</li>
+          <li>Implemented Continuous Integration/Continuous Deployment (CI/CD) pipelines using Jenkins and GitLab CI, automating the build, test, and deployment processes to ensure rapid and reliable delivery of software updates.</li>
+        <li>Utilized agile methodologies for development, ensuring efficient and iterative progress towards project goals.</li>
         </ul>
       </div>
 
@@ -51,10 +55,10 @@ const Experience = () => {
         <h4 className="job-title">Intern</h4>
        <p>DRDL | May 2019</p>
         <ul className='bullet-list'>
-        <li>Led development of a Microservices-based Health Monitoring System using web technologies, ensuring reliable system health monitoring.</li>
-<li>Implemented WebSocket protocol for real-time communication, boosting system response time by 30% and data transfer speed by 40%.</li>
-<li>Conducted end-to-end tests, reducing downtime by 60% and enhancing system reliability.</li>
-<li>Collaborated across teams to integrate the system, achieving 50% better data accuracy and 20% improved performance.</li>
+        <li>Spearheaded the development of Message Level Simulator using web technologies, incorporating React.js for front-end and Node.js for back-end development, which resulted in a reliable and scalable solution for monitoring the health of systems in use.</li>
+<li>Successfully implemented WebSocket’s as the protocol for Message Level Simulator, which led to 30% increase in system response time and 40% improvement in data transfer speed, ensuring real time communication between systems.</li>
+<li>Executed end-to-end tests for Message Level Simulator, reducing downtime by 60%.</li>
+<li>Integrated Message Level Simulator with existing systems, increasing data accuracy by 50% and system performance by 20%.</li>
 
 </ul>
       

@@ -34,7 +34,7 @@ const Experience = () => {
         <p className="about-title">Experience</p>
         <div className="experience-card">
         <h4 className="job-title">Associate Software Engineer (ASE)</h4>
-        <p>Accenture India Pvt.Ltd., | Aug 2020 - June 2022</p>
+        <p>Accenture India Pvt.Ltd., | August 2020 - June 2022</p>
         <ul className='bullet-list'>
         
           <li>Worked as a back-end Java Developer for the Demant Team at William Demant, developing high-performance and reliable web applications, including a CRM application, using Spring Web Flux.</li>
@@ -53,7 +53,7 @@ const Experience = () => {
       <CardContainer>
       <div className="experience-card">
         <h4 className="job-title">Intern</h4>
-       <p>DRDL | May 2019</p>
+       <p>DRDL | April 2019 - December 2019</p>
         <ul className='bullet-list'>
         <li>Spearheaded the development of Message Level Simulator using web technologies, incorporating React.js for front-end and Node.js for back-end development, which resulted in a reliable and scalable solution for monitoring the health of systems in use.</li>
 <li>Successfully implemented WebSocket’s as the protocol for Message Level Simulator, which led to 30% increase in system response time and 40% improvement in data transfer speed, ensuring real time communication between systems.</li>

@@ -34,7 +34,7 @@ const Experience = () => {
         <p className="about-title">Experience</p>
         <div className="experience-card">
         <h4 className="job-title">Associate Software Engineer (ASE)</h4>
-        <p>Accenture India Pvt.Ltd., | August 2020 - June 2022</p>
+        <p>Accenture India Pvt.Ltd., | January 2020 - June 2022</p>
         <ul className='bullet-list'>
         
           <li>Worked as a back-end Java Developer for the Demant Team at William Demant, developing high-performance and reliable web applications, including a CRM application, using Spring Web Flux.</li>

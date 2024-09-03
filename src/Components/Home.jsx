@@ -1,4 +1,4 @@
-import profileImage from '../Assets/myImage.JPG';
+import profileImage from '../Assets/IMG_8569.jpeg';
 import { motion, useAnimation } from 'framer-motion';
 import React, { useEffect } from 'react';
 import '../Styles/Home.css'; // Import the Profile CSS

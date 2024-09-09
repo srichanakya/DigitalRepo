@@ -52,8 +52,8 @@ const Experience = () => {
 
       <CardContainer>
       <div className="experience-card">
-        <h4 className="job-title">Intern</h4>
-       <p>DRDL | May 2019</p>
+        <h4 className="job-title">Summer Intern</h4>
+       <p>DRDL</p>
         <ul className='bullet-list'>
         <li>Spearheaded the development of Message Level Simulator using web technologies, incorporating React.js for front-end and Node.js for back-end development, which resulted in a reliable and scalable solution for monitoring the health of systems in use.</li>
 <li>Successfully implemented WebSocket’s as the protocol for Message Level Simulator, which led to 30% increase in system response time and 40% improvement in data transfer speed, ensuring real time communication between systems.</li>

@@ -52,7 +52,7 @@ const Experience = () => {
 
 
       <CardContainer>
-        <p className="about-title">Experience</p>
+
         <div className="experience-card">
         <h4 className="job-title">Associate Software Engineer (ASE)</h4>
         <p>Accenture India Pvt.Ltd., | August 2020 - June 2022</p>

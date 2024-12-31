@@ -30,6 +30,27 @@ const CardContainer = ({ children }) => {
 const Experience = () => {
   return (
     <div id="experience">
+        <CardContainer>
+            <p className="about-title">Experience</p>
+            <div className="experience-card">
+                <h4 className="job-title">Software Engineer Analyst</h4>
+                <p>The Goldman Sachs Group, Inc., | September 2024 - present</p>
+                <ul className='bullet-list'>
+                    <li>Collaborated with cross-functional teams to analyze and design scalable system solutions aligned with evolving product requirements, ensuring seamless integration across various services.</li>
+                    <li>Engineered distributed systems leveraging Apache Kafka and REST APIs, facilitating efficient and reliable inter-service communication.</li>
+                    <li>Developed a high-throughput payment gateway using Java Spring and AWS, optimizing transaction workflows for improved speed and reliability.</li>
+                    <li>Enhanced the payment orchestration layer by integrating diverse payment providers, significantly reducing transaction failure rates and increasing operational efficiency.</li>
+                    <li>Collaborated in an Agile environment using JIRA for task tracking and Jenkins for continuous integration and automated deployment.</li>
+                    <li>Designed and optimized backend microservices to process high-volume payment transactions, ensuring low latency, fault tolerance, and high availability.</li>
+                    <li>Gained extensive experience with global payment rails such as FEDWIRE, SEPA Instant, and SWIFT, contributing to seamless cross-border transaction handling.</li>
+                    <li>Conducted comprehensive code reviews and enforced coding best practices, enhancing code quality, maintainability, and system stability.</li>
+                    <li>Worked closely with DevOps teams to monitor application performance, troubleshoot issues, and ensure smooth production deployments.</li>
+                </ul>
+            </div>
+
+        </CardContainer>
+
+
       <CardContainer>
         <p className="about-title">Experience</p>
         <div className="experience-card">
